@@ -1,6 +1,6 @@
 {
     "name": "hemsfacebook/fblogin",
-    "description": "Facebook login package with latest SDK",
+    "description": "Facebook login package with latest SDK for Laravel 4.2.",
     "authors": [
         {
             "name": "Hemsfblogin",
