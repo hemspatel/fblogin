@@ -1,0 +1,23 @@
+{
+    "name": "hemsfacebook/fblogin",
+    "description": "Facebook login package with latest SDK",
+    "authors": [
+        {
+            "name": "Hemsfblogin",
+            "email": "patel.hemant15@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/facades"
+        ],
+        "psr-0": {
+            "Hemsfacebook\\Fblogin\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
